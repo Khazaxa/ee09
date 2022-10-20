@@ -1,2 +1,2 @@
 # ee09
-my egzam ee09
+my exam ee09
